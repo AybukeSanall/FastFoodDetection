@@ -22,7 +22,7 @@ The response returns the classification result in JSON format.
 This project utilizes the following technologies and tools:
 - .NET Core 7.0
 - ML.NET
-- ## How to Use
+## How to Use
 The project can be started by following these steps:
 
 1. Clone the project:
